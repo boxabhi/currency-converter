@@ -1,0 +1,17 @@
+body{
+    background: #051e3e ; padding: 0px;
+    margin: 0px;}
+    
+    p{
+        color: #fff;
+        font-size: 22px;
+        font-weight: bold;
+    }
+    span{
+        color: #fff;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    h3{
+        color: #fff;
+    }
